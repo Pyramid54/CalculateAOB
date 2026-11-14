@@ -1,6 +1,6 @@
 # CalculateAOB
 
-Input the data the program asks for and it spits out a good estimation of the AOB. <br>
+Input the data the program asks for and it spits out a good estimation of the AOB given accurate data. <br>
 
 Make sure your measurements are accurate. Using decimals is 200% recommended or program might fail or give out an inaccurate AOB. <br>
 
